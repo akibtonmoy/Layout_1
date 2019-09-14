@@ -1,0 +1,43 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+.logo{
+	height: 80px;
+	background-color: skyblue;
+	text-align: center;
+}
+h4{
+	font-size: 30px;
+	padding-top: 15px;
+}
+.navigation,.banner{
+	height: 60px;
+	background-color: skyblue;
+	text-align: center;
+	margin: 15px 0px;
+}
+.banner{
+	height: 120px;
+}
+.content-warpper{
+	overflow: hidden;
+}
+.side-bar{
+	width: 25%;
+	background-color: skyblue;
+	height: 600px;
+	float: left;
+}
+.body-area{
+	width: 70%;
+	background-color: skyblue;
+	height: 600px;
+	float: right;
+}
+.footer{
+	background-color: skyblue;
+	height: 50px;
+	margin-top: 10px;
+}
